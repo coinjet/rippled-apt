@@ -1,4 +1,4 @@
-# rippled-apt
+# divvyd-apt
 
 Tools for building rippled apt packages.
 
